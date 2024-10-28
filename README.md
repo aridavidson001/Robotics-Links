@@ -1,7 +1,7 @@
-### 
-
-# Programming Resources
-
+<details>
+<summary> <h1>Programming Resources</h1> </summary>
+<br>
+  
 ## 4829
 
 [Coding Conventions](https://github.com/TitaniumTigers4829/4829-docs/wiki/Coding-Conventions)  
@@ -27,8 +27,12 @@
 [Recording Outputs](https://github.com/Mechanical-Advantage/AdvantageKit/blob/main/docs/docs/recording-outputs/index.md)  
 [Recording Inputs](https://github.com/Mechanical-Advantage/AdvantageKit/blob/main/docs/docs/recording-inputs/io-interfaces.md)  
 [Advantage Kit](https://github.com/Mechanical-Advantage/AdvantageKit/tree/main/docs/docs)
+</details>
 
-# Strat/Scouting Resources
+<details>
+<summary> <h1>Strat/Scouting Resources</h1> </summary>
+<br>
+  
 
 [2024 off season preparation for main season](https://docs.google.com/document/d/1pTBu32AU5XtuJq23jW4FJcFO_NVHfd6g-AYWRApRgHM/edit?tab=t.0)
 
@@ -49,8 +53,11 @@
 [Game Analysis and Scoring Systems](https://www.youtube.com/watch?v=EEF-r9oF0JY)  
 [Effective Driver Training in FRC](https://youtu.be/EeAovf8hZEs?si=3YamLP0hjS0K_1ct)  
 [Citrus Slideshows](https://drive.google.com/drive/folders/1lgT7___NQAZaBmw2SGNklI_t_unGlKnn)
+</details>
 
-# CAD/Design Resources
+<details>
+<summary> <h1>CAD/Design Resources</h1> </summary>
+<br>
 
 ## CAD
 
@@ -66,8 +73,11 @@
 [Design For Autonomous](https://www.youtube.com/watch?v=0PkYJwgMAOA)  
 [Quick Prototyping and Subsystems](https://www.youtube.com/watch?v=ALBZPZDQ3ig)  
 [Simplicity in Design](https://www.youtube.com/watch?v=2XneNCxo1tY)
+</details>
 
-# Chief Delphi Links
+<details>
+<summary> <h1>Chief Delphi Links</h1> </summary>
+<br>
 
 ## Open Alliance
 
@@ -77,9 +87,16 @@
 ## Other
 
 [What does it take to go to Einstein](https://www.chiefdelphi.com/t/what-does-it-take-to-go-to-einstein/472251)
+</details>
 
-# Other
+<details>
+<summary> <h1>Other</h1> </summary>
+<br>
 
 [FIRST Community Blog](https://community.firstinspires.org/)  
 [FIRST Robotics Competition Game & Season | FIRST](https://www.firstinspires.org/robotics/frc/game-and-season)  
 [Stuff To Learn](https://docs.google.com/document/d/12gjSH-PZBblI8Xxw_WCs_k3JAOZB0w6Dc-jCRqaoK_o/edit?tab=t.0)
+
+
+
+</details>
